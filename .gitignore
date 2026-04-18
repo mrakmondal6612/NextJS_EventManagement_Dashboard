@@ -1,0 +1,44 @@
+# Dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js
+/.next
+/out
+
+# Production
+/build
+
+# Misc
+.DS_Store
+*.pem
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+!.vscode/extensions.json
+.history
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+config.bat
